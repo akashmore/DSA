@@ -1,0 +1,1 @@
+get all even number in palindrome and in case of odd ocurence of character take odd number - 1. And if odd present in final sum take + 1.

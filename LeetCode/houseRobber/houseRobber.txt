@@ -1,0 +1,1 @@
+Its dp problem. Let say rob0,rob1,n,n+1 so you can max(n+rob0 ,rob1:) without including rob0. Now this rob1: can be divided into sub problem as same. So we have to just take care of rob0 and rob1.

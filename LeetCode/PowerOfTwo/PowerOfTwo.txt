@@ -1,0 +1,1 @@
+Check if number is totally divided by 2 until you get 1 again divide number by 2.

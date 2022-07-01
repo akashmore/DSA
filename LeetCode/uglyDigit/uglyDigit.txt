@@ -1,0 +1,1 @@
+Keep dividing number with 2 / 3/ 5 until the number is greater than 1. If failed in between return False.

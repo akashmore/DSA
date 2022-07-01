@@ -1,0 +1,1 @@
+make dictionary and maintain count . reiterate and return number having count 1

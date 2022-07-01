@@ -1,0 +1,1 @@
+Keep doing dfs on left and right both of the tree and get min between this two and add +1 for root node. Just in case of tree where left or right can be NULL (Which means only one side is getiing filled) take max of (0,(left/right))

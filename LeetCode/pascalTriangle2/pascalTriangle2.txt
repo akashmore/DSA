@@ -1,0 +1,1 @@
+Same as pascal triangle just return indexed element from big array.

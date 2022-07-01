@@ -1,0 +1,1 @@
+take two pointers and put second pointer already ahead of specific difference to the nfirst pointer and that how you maintain particular difference and  remove until second pointer reach at the end

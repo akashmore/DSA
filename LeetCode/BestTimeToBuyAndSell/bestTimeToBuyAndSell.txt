@@ -1,0 +1,1 @@
+keep one minimum and one diff varible . Lineraly iterate array and check with array[i] - min if greater than diff. If diff is greater replace diff and if array[i] is less than minimum replace minimum.

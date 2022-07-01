@@ -1,0 +1,1 @@
+Take set keep adding element if not present from original array. If already present then return True else return False.

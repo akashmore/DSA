@@ -1,0 +1,1 @@
+Take imaginary array like 0,1,0 by keeping last and firt element to be 0. Take j and j+1 element and add two numbers.

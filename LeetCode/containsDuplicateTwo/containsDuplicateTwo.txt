@@ -1,0 +1,1 @@
+maintain tmpDict . If element not present from array then add element into dict with index as value. If match found comapre difference with given k and if not matching update index of matched one element in temp Dict.

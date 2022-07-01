@@ -1,0 +1,2 @@
+Use DFS recursively.
+compare every element with other elemet of tree

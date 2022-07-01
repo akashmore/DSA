@@ -1,0 +1,1 @@
+Take two pointers one at start one at end. Find area of rectangle formed by them. Keep changing max area whenever max finder is smaller than area formed by current two pointers. Increase or decrease the pointer according wichver less.

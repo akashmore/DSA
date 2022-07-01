@@ -1,0 +1,1 @@
+Its like fibonnaci series , dp problem - bottom up approach. last two base cases will be always 1,1.

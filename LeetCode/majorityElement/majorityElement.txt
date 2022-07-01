@@ -1,0 +1,1 @@
+take hashmap and find max degree. Check if occurence of value of number is greater and return.

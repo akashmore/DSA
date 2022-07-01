@@ -1,0 +1,1 @@
+Take tmp set add every summetion and keep looping until the same summetion not detected in set. Otherwise 1 found then return

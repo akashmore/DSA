@@ -1,0 +1,1 @@
+check every element in the str is alphanumeric and append in tmp array in lowecase if its is alpha(a-z). create string from array and check with reverse string of array. if they are equal then return true else return false.

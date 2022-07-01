@@ -1,0 +1,1 @@
+take two pointers curr and previous keep storing value and when match find just put previous.next to curr.next. At the end if head has same value then return head.next
