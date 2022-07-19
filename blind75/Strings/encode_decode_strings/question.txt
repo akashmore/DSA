@@ -1,0 +1,6 @@
+given a array of words encode and decode so that it will same as it is
+
+ex: input - ["neet","code"]
+    output - ["neet","code"]
+
+    
